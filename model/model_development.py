@@ -9,7 +9,7 @@ import pickle
 # =============================
 # 1. LOAD DATA
 # =============================
-df = pd.read_csv("titanic.csv")  # path to dataset
+df = pd.read_csv("./model/train (1).csv")  # path to dataset
 
 # =============================
 # 2. DATA PREPROCESSING
