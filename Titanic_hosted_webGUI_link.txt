@@ -1,6 +1,6 @@
 Name: Awa
-Matric Number: CU/CSC/2024/12345
+Matric Number: 23CE034385
 Algorithm Used: Logistic Regression
 Model Persistence: Pickle
-Live URL: https://yourapp.onrender.com
-GitHub Repo: https://github.com/yourname/Titanic_Project
+Live URL: https://titanic-prediction-project-awa-emmanuel.onrender.com/
+GitHub Repo: https://github.com/AwaEmmanuel-lab/Titanic_Prediction_Project_Awa_Emmanuel_23CE034385
